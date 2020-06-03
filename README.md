@@ -132,7 +132,7 @@ Derived from the 2.0 License
           notices within Derivative Works that You distribute, alongside
           or as an addendum to the NOTICE text from the Work, provided
           that such additional attribution notices cannot be construed
-          as modifying the License.
+          as modifying the License; and
           
       (f) You must state that Derivative Works are Derivative Works 
           from the Work in a NOTICE text. If the Work has a 
