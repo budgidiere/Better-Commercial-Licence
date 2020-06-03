@@ -62,6 +62,10 @@
       "Contributor" shall mean Licensor and any individual or Legal Entity
       on behalf of whom a Contribution has been received by Licensor and
       subsequently incorporated within the Work.
+      
+      "Same Or An Extremely Similar Purpose" shall mean any a purpose that 
+      is designed or practically serves as a replacement for the Work or 
+      Derivative Works.
 
    2. Grant of Copyright License. Subject to the terms and conditions of
       this License, each Contributor hereby grants to You a perpetual,
@@ -89,21 +93,25 @@
    4. Redistribution. You may reproduce and distribute copies of the
       Work or Derivative Works thereof in any medium, with or without
       modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
+      meet the following conditions:di
+  
+      (a) You do not commercialize the Work or 
+          Derivative Works if it fills the Same Or 
+          An Extremely Similar Purpose; and
+        
+      (b) You must give any other recipients of the Work or
           Derivative Works a copy of this License; and
 
-      (b) You must cause any modified files to carry prominent notices
+      (c) You must cause any modified files to carry prominent notices
           stating that You changed the files; and
 
-      (c) You must retain, in the Source form of any Derivative Works
+      (d) You must retain, in the Source form of any Derivative Works
           that You distribute, all copyright, patent, trademark, and
           attribution notices from the Source form of the Work,
           excluding those notices that do not pertain to any part of
           the Derivative Works; and
 
-      (d) If the Work includes a "NOTICE" text file as part of its
+      (e) If the Work includes a "NOTICE" text file as part of its
           distribution, then any Derivative Works that You distribute must
           include a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
@@ -119,6 +127,11 @@
           or as an addendum to the NOTICE text from the Work, provided
           that such additional attribution notices cannot be construed
           as modifying the License.
+          
+      (f) You must state that Derivative Works are Derivative Works 
+          from the Work in a NOTICE text. If the Work has a 
+          notice file it must be an addendum to the NOTICE text.
+
 
       You may add Your own copyright statement to Your modifications and
       may provide additional or different license terms and conditions
